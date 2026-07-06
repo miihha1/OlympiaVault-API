@@ -1,0 +1,10 @@
+{
+  "name": "xadamenkom/webte2-1projekt",
+  "description": "WEBTE2 project",
+  "type": "project",
+  "require": {
+    "phpoffice/phpspreadsheet": "^2.4",
+    "league/oauth2-google": "^4.2",
+    "spomky-labs/otphp": "^11.4"
+  }
+}
